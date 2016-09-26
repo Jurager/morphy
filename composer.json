@@ -21,11 +21,11 @@
     },
     "autoload": {
         "classmap": [
-            "libs/morphy/src/common.php",
-            "libs/morphy/src/"
+            "libs/phpmorphy/src/common.php",
+            "libs/phpmorphy/src/"
         ],
         "psr-4": {
-            "jurager\\phpMorphy\\": "src"
+            "jurager\\morphy\\": "src"
         }
     }
 }
