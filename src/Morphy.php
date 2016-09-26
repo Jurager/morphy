@@ -1,8 +1,8 @@
 <?php
 
-namespace cijic\phpMorphy;
+namespace jurager\morphy;
 
-use phpMorphy;
+use morphy;
 
 class Morphy extends phpMorphy
 {
