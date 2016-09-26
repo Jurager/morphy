@@ -25,7 +25,7 @@
             "libs/phpmorphy/src/"
         ],
         "psr-4": {
-            "jurager\\morphy\\": "src"
+            "Jurager\\Morphy\\": "src"
         }
     }
 }
