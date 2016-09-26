@@ -1,6 +1,6 @@
 <?php
 
-namespace jurager\morphy;
+namespace Jurager\Morphy;
 
 use phpMorphy;
 
