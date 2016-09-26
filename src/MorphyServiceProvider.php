@@ -1,6 +1,6 @@
 <?php
 
-namespace cijic\phpMorphy;
+namespace jurager\morphy;
 
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\ServiceProvider;
