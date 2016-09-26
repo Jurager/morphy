@@ -2,7 +2,7 @@
 
 namespace jurager\morphy;
 
-use morphy;
+use phpMorphy;
 
 class Morphy extends phpMorphy
 {
