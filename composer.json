@@ -25,7 +25,7 @@
             "libs/morphy/src/"
         ],
         "psr-4": {
-            "jurager\\Morphy\\": "src"
+            "jurager\\morphy\\": "src"
         }
     }
 }
