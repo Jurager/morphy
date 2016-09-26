@@ -1,14 +1,19 @@
 {
-    "name": "cijic/phpmorphy",
-    "description": "phpMorphy - morphological analyzer library for Russisan, English languages.",
+    "name": "jurager/morphy",
+    "description": "Morphy - morphological analyzer library for Russisan, English languages.",
     "keywords": [
-        "phpMorphy"
+        "Morphy"
     ],
-    "homepage": "https://github.com/cijic/phpmorphy",
+    "homepage": "https://github.com/jurager/morphy",
     "license": "MIT",
     "authors": [{
         "name": "Chiril Teterea",
         "email": "altcode@ya.ru",
+        "role": "Developer"
+    },
+    {
+        "name": "Gerassimov Yuri",
+        "email": "jurager01@gmail.com",
         "role": "Developer"
     }],
     "require": {
@@ -16,11 +21,11 @@
     },
     "autoload": {
         "classmap": [
-            "libs/phpmorphy/src/common.php",
-            "libs/phpmorphy/src/"
+            "libs/morphy/src/common.php",
+            "libs/morphy/src/"
         ],
         "psr-4": {
-            "cijic\\phpMorphy\\": "src"
+            "jurager\\Morphy\\": "src"
         }
     }
 }
