@@ -1,6 +1,6 @@
 <?php
 
-namespace jurager\morphy\Facade;
+namespace Jurager\Morphy\Facade;
 
 use Illuminate\Support\Facades\Facade;
 
