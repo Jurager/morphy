@@ -1,6 +1,6 @@
 # jurager/morphy
 
-Wrapper for phpMorphy library with PHP7 support
+Laravel wrapper for phpMorphy library with PHP7 support
 
 Source website (in russian): http://phpmorphy.sourceforge.net/  
 SF project: http://sourceforge.net/projects/phpmorphy  
