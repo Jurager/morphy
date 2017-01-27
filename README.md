@@ -1,7 +1,6 @@
 # jurager/morphy
 
-Morphy --- morphological analyzer library for Russisan, English and German languages.  
-```jurager/morphy``` is wrapper for phpMorphy library.
+Wrapper for phpMorphy library with PHP7 support
 
 Source website (in russian): http://phpmorphy.sourceforge.net/  
 SF project: http://sourceforge.net/projects/phpmorphy  
